@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CaveGame/CaveGame.csproj" />
+  <Project Path="voidClient/v0idClient.csproj" />
+</Solution>
